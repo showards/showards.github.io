@@ -1,7 +1,7 @@
 var store = [{
         "title": "Introduction to Balances",
-        "excerpt":"In a complex world of business and finance, understanding a company’s financial standing is paramount for all stakeholders: management, investors, creditors, and employees. While various reports offer pieces of the puzzle, two statements stand out as fundamentals in financial reporting: the balance sheet and the cash flow statement. These documents...","categories": [],
+        "excerpt":"For database developers, understanding financial balances is critical, as they form the foundation of an organization’s financial health! A balance, in a database, represents a snapshot of a monetary value at a specific point in time. These values could be a customer’s account balance, the amount of cash on hand,...","categories": [],
         "tags": [],
-        "url": "/balances/introduction.html",
+        "url": "/balances/intro.html",
         "teaser": null
       }]
